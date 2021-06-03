@@ -2,6 +2,8 @@
 
 > A Vue.js project
 
+## this project build by baidu translate API
+## it can translate some lang to other lang
 ## Build Setup
 
 ``` bash
